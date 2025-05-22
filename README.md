@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🏥 Hospital Management System
 
 A comprehensive web application designed to streamline hospital operations, including patient management, doctor management, appointment scheduling, and secure user authentication. This project aims to enhance the healthcare experience for both staff and patients through efficient digital solutions.
@@ -52,14 +51,6 @@ python manage.py runserver
 6. **Access the application:**
 Open your browser and go to [http://localhost:8000](http://localhost:8000)
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots of your application here for better visualization)*
-
----
-
 ## 👤 User Roles
 
 - **Admin:** Full access to all modules and settings.
@@ -69,11 +60,6 @@ Open your browser and go to [http://localhost:8000](http://localhost:8000)
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🤝 Contributing
 
@@ -90,5 +76,3 @@ For any queries or feedback, please contact:
 ---
 
 **Star** ⭐ this repository to support the project!
-
-EOF
