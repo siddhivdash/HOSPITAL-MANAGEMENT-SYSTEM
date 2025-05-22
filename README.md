@@ -18,9 +18,9 @@ A comprehensive web application designed to streamline hospital operations, incl
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Python, Django / Flask (update as per your project)
+- **Backend:** Python, Flask 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Database:** SQLite / MySQL (update as per your project)
+- **Database:** MySQL
 - **Version Control:** Git, GitHub
 
 ---
